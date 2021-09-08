@@ -1,3 +1,1 @@
-# Trabalho-senai
-Treinando
-readme de exemplo
+"Lembrei do comando: git status"
